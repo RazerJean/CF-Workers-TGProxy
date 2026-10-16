@@ -1,0 +1,6 @@
+name = "tgproxy"
+main = "telegram_webproxy.js"
+compatibility_date = "2025-01-01"
+
+# SECRET / BOOT 不要在仓库里明文配置
+# 请在 Cloudflare Dashboard -> Worker -> Settings -> Variables and Secrets 中添加
